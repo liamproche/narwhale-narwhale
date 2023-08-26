@@ -15,6 +15,7 @@ Keeda
 
 -A set of 6 Numbers
 -A set of 256 characters
+-Boolean
 
 
 
