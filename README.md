@@ -2,10 +2,12 @@
 The ultimate answer to life the universe and everything
 
 
+N is the most important thing in the world
+B
 GH Most important
 VW for the Models
 I write the code backward alone
-
+Models will take forever
 
 
 
