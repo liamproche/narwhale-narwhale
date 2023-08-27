@@ -1,7 +1,8 @@
 # narwhale-narwhale
-The ultimate answer to life the universe and everything
+The ultimate answer to life the universe and everything is ctrl+v
 
-B2RB
+B2RBG
+
 
 N is the most important thing in the world
 B
