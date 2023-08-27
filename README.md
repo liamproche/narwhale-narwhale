@@ -1,18 +1,12 @@
 # narwhale-narwhale
 The ultimate answer to life the universe and everything
 
-Cimiter
-Everyone
-LB
-RR
-Team
-KAR
-MB
-Keeda
-Gary
-Mark
-KH
 
+
+
+GH Most important
+VW for the Models
+I write the code backward alone
 
 
 

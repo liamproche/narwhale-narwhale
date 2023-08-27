@@ -26,7 +26,7 @@ let y = 25;
 let z = 26;
 
 
-
+let alive = 150
 
 
 
