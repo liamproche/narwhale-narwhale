@@ -1,8 +1,7 @@
 # narwhale-narwhale
 The ultimate answer to life the universe and everything
 
-MG = M
-
+B2RB
 
 N is the most important thing in the world
 B
