@@ -2,8 +2,6 @@
 The ultimate answer to life the universe and everything
 
 
-
-
 GH Most important
 VW for the Models
 I write the code backward alone
