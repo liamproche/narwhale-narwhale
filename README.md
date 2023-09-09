@@ -24,7 +24,7 @@ Models will take forever
 
 -Jump off the top of the building, build up to terminal velocity and see who land first ("Fall Guy Scenario")-Per
 
--Die Zaberflute- AN
+Formula based on a story A. Nienaber told about N. Bowie
 
 
 
