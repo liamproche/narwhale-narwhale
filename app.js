@@ -30,8 +30,14 @@ let alive = 150
 
 
 
+
+
+
 const narewhaleNarwhale = function(str1, str2){
-     console.log(str1 + str2)
+    
+    
+    
+    console.log(str1 + str2)
 }
 
 narewhaleNarwhale("MEB", "LPR")
