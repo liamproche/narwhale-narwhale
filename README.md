@@ -6,7 +6,7 @@ OVERVIEW
 B2RBG- (Representative of genetic code)
 
 GREAT TRUTH!!!!!!!
--"If the genetic code were Open-Sourced on Github, it could have the power to stop all wars" 
+-"If the genetic code were Open-Sourced on Github, it could have the power to stop all wars" (Please ask me how!)
 
 MODELS
 -Build in VW
