@@ -11,8 +11,9 @@
 <h2>MODELS</h2>
 <ol>
     <li>Build in VW</li>
-    <li>A-Z (to start)</li>
-    <li>Add Numbers Later</li>
+    <li>Genetic Code symbols (to start)</li>
+    <li>Add rest of Arabic characters next</li>
+    <li>Add Numbers later</li>
     <li>Add Symbols later (How many????)</li>
     <li>Does QWERTY come into play????</li>
     <li>How much of this work is already done?????</li>
@@ -44,6 +45,7 @@
             <li>Assign number value to letter's key-value pairs</li>
             <li>Loop over str1 & str2 to determine which item is heavier (higher number value should equal heavier object)</li>
             <li>Heavier object wins <------- End of step one</li>
+        </ol>
         <h3>Questions</h3>
             <ol>
                 <li>How to return 6-digit numerical value based on combined string?</li>
