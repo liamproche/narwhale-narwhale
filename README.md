@@ -50,4 +50,4 @@
                 <li>How to return 256-digit numerical value based on initials entered?</li>
             </ol>
 
-<h3>Formula based on a story A. Nienaber (Stage Director)</h3>
+<h3>Formula based on a story tolA. Nienaber (Stage Director)</h3>
