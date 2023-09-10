@@ -37,9 +37,9 @@
 
 
 <h2>Steps</h2>
-<p<>Each letter needs a value based on the model... (This should be windspeed of the obeject falling @ terminal velocity compared to the next object) <-----NOTE Figuring out this part is the biggest hurdle</p>
+<p<>Each letter needs a value based on the model... (This should be windspeed of the object falling @ terminal velocity compared to the next object) <-----NOTE Figuring out this part is the biggest hurdle</p>
         <ol>
-            <li>3D Model Each Letter Using Vectorworks</li>
+            <li>3D Model Each Letter (symbol) Using Vectorworks</li>
             <li>Find formula to determine windspeed of object falling <---NOTE This is tricky (Animation in VW, Maybe????) <---NOTE (ET) probably knows how to solve this problem</li>
             <li>Assign number value to letter's key-value pairs</li>
             <li>Loop over str1 & str2 to determine which item is heavier (higher number value should equal heavier object)</li>
