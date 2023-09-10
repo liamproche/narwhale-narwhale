@@ -48,6 +48,6 @@
             <ol>
                 <li>How to return 6-digit numerical value based on combined string?</li>
                 <li>How to return 256-digit numerical value based on initials entered?</li>
-
+            </ol>
 
 <h3>Formula based on a story A. Nienaber (Stage Director)</h3>
