@@ -3,7 +3,7 @@
 <h2>Satanism/Pastafarianism game represented through code and logic-based puzzle algorithm</h2>
 <h2>Project Code-name: "Fall Guy" dedicated to Jen Hughes (Idea provided by Satan).</h2>
 
-<p>B2RBG- (Representative of genetic code)</p>
+<p>AGUCPLSMTHGIV- (Representative of genetic code)</p>
 
 <h1>GREAT TRUTH!!!!!!!</h1>
 <h2>"If the genetic code were Open-Sourced on Github, it could have the power to stop all wars" (Please ask me how!)</h2>
