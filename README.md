@@ -16,24 +16,32 @@ MODELS
 -Does QWERTY come into play????
 -How much of this work is already done?????
 
-
 Models will take forever :-(
-
+    -(Models are letters to start with if dropped from space, which would hit the ground first)
+    -(Second batch of models are numbers)
+    -(Third batch if models are symbols)
 
 USER STORIES
--The user should enter 2 sets of three inititals, the formula should return:
+-The user should enter 2 sets strings of 3 initials, the formula should return:
+-Which set is heavier
 -A set of 6 Numbers
 -A set of 256 characters
--Boolean
 
--Jump off the top of the building, build up to terminal velocity and see who land first ("Fall Guy Scenario")
 
-Formula based on a story A. Nienaber (Stage Director)
+-Jump off the top of the platform from space, build up to terminal velocity and see who lands first ("Fall Guy Scenario") - GAME Part
+
 
 Steps
--Each letter needs a value based on the model... (This should be windspeed of the obeject falling @ terminal velocity) <-----Figuring out this part is the biggest hurdle, 
+-Each letter needs a value based on the model... (This should be windspeed of the obeject falling @ terminal velocity compared to the next object) <-----NOTE Figuring out this    part is the biggest hurdle
         -3D Model Each Letter Using Vectorworks
-        -Find formula to determine windspeed of object falling <---This is tricky (Animation in VW, Maybe????) <---ET probably knows how to solve this problem
-        -Assign number value to letter's key-value pair
+        -Find formula to determine windspeed of object falling <---NOTE This is tricky (Animation in VW, Maybe????) <---NOTE (ET) probably knows how to solve this problem
+        -Assign number value to letter's key-value pairs
         -Loop over str1 & str2 to determine which item is heavier (higher number value should equal heavier object)
         -Heavier object wins <------- End of step one
+
+        Questions
+            -How to return 6-digit numerical value based on combined string?
+            -How to return 256-digit numerical value based on initials entered?
+
+
+Formula based on a story A. Nienaber (Stage Director)
