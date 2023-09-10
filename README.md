@@ -28,7 +28,7 @@ USER STORIES
 
 -Jump off the top of the building, build up to terminal velocity and see who land first ("Fall Guy Scenario")
 
-Formula based on a story A. Nienaber told about N. Bowie
+Formula based on a story A. Nienaber (Stage Director)
 
 
 
