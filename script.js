@@ -1,1 +1,0 @@
-constDic = ["A", "B,"]
